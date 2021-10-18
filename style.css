@@ -1,0 +1,26 @@
+footer {
+  text-align: center;
+}
+p {
+  text-align: justify;
+  font-size: 14px;
+}
+header {
+  background-color: black;
+  font-size: x-large;
+  margin-top: 0px;
+}
+a {
+  color: white;
+}
+footer {
+  background-color: black;
+  color: white;
+  line-height: 23px;
+}
+.slider-div {
+  text-align: center;
+}
+.slider {
+  margin-top: 10px;
+}
